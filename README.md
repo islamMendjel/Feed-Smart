@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+
 # 🐄 FeedSmart Expert System
 
 A Prolog-based expert system that recommends optimal feeding rations for cows based on their category (milk or meat) and weight.
@@ -41,3 +43,5 @@ What is the cow weight (Kg) : 450.
 
 Ration(s) :
 -> 8kg of forage + 4kg of concentrate + balanced mineral supplement.
+
+![](https://github.com/idimetrix/BEPb/blob/main/assets/Bottom_down.svg)
