@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-# 🐄 FeedSmart Expert System
+# 🐄 Feed-Smart Expert System
 
 A Prolog-based expert system that recommends optimal feeding rations for cows based on their category (milk or meat) and weight.
 
